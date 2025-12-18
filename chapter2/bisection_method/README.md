@@ -4,3 +4,4 @@
 ![img_4.png](../../res/bisection_res/img_4.png)
 ![img_5.png](../../res/bisection_res/img_5.png)
 ![img_6.png](../../res/bisection_res/img_6.png)
+![img.png](img.png)
