@@ -1,0 +1,6 @@
+![img_1.png](../../res/bisection_res/img_1.png)
+![img.png](../../res/bisection_res/img.png)
+![img_2.png](../../res/bisection_res/img_2.png)
+![img_4.png](../../res/bisection_res/img_4.png)
+![img_5.png](../../res/bisection_res/img_5.png)
+![img_6.png](../../res/bisection_res/img_6.png)
